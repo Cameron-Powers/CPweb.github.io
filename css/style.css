@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5,
 
 .site-section {
   padding: 2.5em 0; }
-  @media (min-width: 768px) {
+  @media (min-width: 100px) {
     .site-section {
       padding: 10em 0; } }
   .site-section.site-section-sm {
@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5,
   font-size: 2.5rem;
   color: #fff;
   padding-bottom: 30px; }
-  @media (min-width: 768px) {
+  @media (min-width: 100px) {
     .site-section-heading h2 {
       font-size: 3rem; } }
   .site-section-heading h2:after {
